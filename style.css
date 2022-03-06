@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: rgb(27, 27, 27);
+    color: #FFF;
+    padding: 0 30px;
+}
+
+#clock {
+    font-size: 6rem;
+    font-family: sans-serif;
+
+}
